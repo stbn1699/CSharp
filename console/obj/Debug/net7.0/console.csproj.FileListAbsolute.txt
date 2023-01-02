@@ -1,0 +1,15 @@
+C:\Users\stbnb\Documents\dev\cours_isitech\CSharp\console\bin\Debug\net7.0\console.exe
+C:\Users\stbnb\Documents\dev\cours_isitech\CSharp\console\bin\Debug\net7.0\console.deps.json
+C:\Users\stbnb\Documents\dev\cours_isitech\CSharp\console\bin\Debug\net7.0\console.runtimeconfig.json
+C:\Users\stbnb\Documents\dev\cours_isitech\CSharp\console\bin\Debug\net7.0\console.dll
+C:\Users\stbnb\Documents\dev\cours_isitech\CSharp\console\bin\Debug\net7.0\console.pdb
+C:\Users\stbnb\Documents\dev\cours_isitech\CSharp\console\obj\Debug\net7.0\console.csproj.AssemblyReference.cache
+C:\Users\stbnb\Documents\dev\cours_isitech\CSharp\console\obj\Debug\net7.0\console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stbnb\Documents\dev\cours_isitech\CSharp\console\obj\Debug\net7.0\console.AssemblyInfoInputs.cache
+C:\Users\stbnb\Documents\dev\cours_isitech\CSharp\console\obj\Debug\net7.0\console.AssemblyInfo.cs
+C:\Users\stbnb\Documents\dev\cours_isitech\CSharp\console\obj\Debug\net7.0\console.csproj.CoreCompileInputs.cache
+C:\Users\stbnb\Documents\dev\cours_isitech\CSharp\console\obj\Debug\net7.0\console.dll
+C:\Users\stbnb\Documents\dev\cours_isitech\CSharp\console\obj\Debug\net7.0\refint\console.dll
+C:\Users\stbnb\Documents\dev\cours_isitech\CSharp\console\obj\Debug\net7.0\console.pdb
+C:\Users\stbnb\Documents\dev\cours_isitech\CSharp\console\obj\Debug\net7.0\console.genruntimeconfig.cache
+C:\Users\stbnb\Documents\dev\cours_isitech\CSharp\console\obj\Debug\net7.0\ref\console.dll

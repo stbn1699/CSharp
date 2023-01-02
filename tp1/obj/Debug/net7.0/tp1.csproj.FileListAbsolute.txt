@@ -1,0 +1,15 @@
+C:\Users\stbnb\Documents\dev\cours_isitech\CSharp\tp1\obj\Debug\net7.0\tp1.csproj.AssemblyReference.cache
+C:\Users\stbnb\Documents\dev\cours_isitech\CSharp\tp1\obj\Debug\net7.0\tp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stbnb\Documents\dev\cours_isitech\CSharp\tp1\obj\Debug\net7.0\tp1.AssemblyInfoInputs.cache
+C:\Users\stbnb\Documents\dev\cours_isitech\CSharp\tp1\obj\Debug\net7.0\tp1.AssemblyInfo.cs
+C:\Users\stbnb\Documents\dev\cours_isitech\CSharp\tp1\obj\Debug\net7.0\tp1.csproj.CoreCompileInputs.cache
+C:\Users\stbnb\Documents\dev\cours_isitech\CSharp\tp1\bin\Debug\net7.0\tp1.exe
+C:\Users\stbnb\Documents\dev\cours_isitech\CSharp\tp1\bin\Debug\net7.0\tp1.deps.json
+C:\Users\stbnb\Documents\dev\cours_isitech\CSharp\tp1\bin\Debug\net7.0\tp1.runtimeconfig.json
+C:\Users\stbnb\Documents\dev\cours_isitech\CSharp\tp1\bin\Debug\net7.0\tp1.dll
+C:\Users\stbnb\Documents\dev\cours_isitech\CSharp\tp1\bin\Debug\net7.0\tp1.pdb
+C:\Users\stbnb\Documents\dev\cours_isitech\CSharp\tp1\obj\Debug\net7.0\tp1.dll
+C:\Users\stbnb\Documents\dev\cours_isitech\CSharp\tp1\obj\Debug\net7.0\refint\tp1.dll
+C:\Users\stbnb\Documents\dev\cours_isitech\CSharp\tp1\obj\Debug\net7.0\tp1.pdb
+C:\Users\stbnb\Documents\dev\cours_isitech\CSharp\tp1\obj\Debug\net7.0\tp1.genruntimeconfig.cache
+C:\Users\stbnb\Documents\dev\cours_isitech\CSharp\tp1\obj\Debug\net7.0\ref\tp1.dll
